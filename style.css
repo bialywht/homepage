@@ -5,3 +5,18 @@ body{
 h2{
     color: #1460AA;
 }
+.czerwony{
+    color: red;
+}
+
+#modul1{
+    background-color: coral;
+}
+
+a{
+    color: green;
+}
+
+header a{
+    color: blueviolet;
+}
